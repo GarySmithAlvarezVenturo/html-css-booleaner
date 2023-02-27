@@ -58,6 +58,24 @@ margin: 0px;}
 
 .evidenzia {
     font-size: 18px;
-    background-color: greenyellow;
+    background-color: rgb(228, 243, 15);
     background-size: 100px;
+}
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+
+table th{
+    background-color:dodgerblue;
+    color: white;
+}
+
+.color-table{
+    background-color: lightskyblue;
+}
+
+.width-td{
+    width: 25%;
 }
