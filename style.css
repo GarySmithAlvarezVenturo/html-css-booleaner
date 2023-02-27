@@ -17,3 +17,21 @@ header {
     margin-left: 1%; 
     margin-top: 2%;
     }
+
+main {
+    margin-left: 1%;
+}
+
+.titolo {
+    font-size: 35px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    }
+
+
+.autore {
+    color: gray;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+ }
